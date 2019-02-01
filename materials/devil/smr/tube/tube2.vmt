@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture"  "devil/smr/tube/tube2"
+	"$surfaceprop" "metal"
+}
